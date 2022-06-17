@@ -6,3 +6,4 @@ farm
 
 node
 
+.\subspace-node-windows-x86_64-gemini-1b-2022-jun-13.exe `--chain gemini-1 `--execution native `--pruning 1024 `--keep-blocks 1024 `--validator `--name eternall
